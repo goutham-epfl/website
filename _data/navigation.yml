@@ -1,22 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Job Market Paper"
+    url: /jmp/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Other Papers"
+    url: /research/
+
+  - title: "Discussions"
+    url: /discussions/
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+    url: /teaching/
+
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
