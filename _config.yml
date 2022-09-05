@@ -81,15 +81,15 @@ analytics:
 # Site Author
 author:
   name             : "Goutham Gopalakrishna"
-  avatar           : "image.png"
+  avatar           : "photo.png"
   bio              : "PhD Candidate in Finance. Passionate about Financial Economics and applications of Machine Learning in Finance."
   location         : "Lausanne, Switzerland."
-  employer         :
+  employer         : EPFL-SFI
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : goutham.gopalakrishna@epfl.ch
   researchgate     :  
-  uri              :
+  uri              : goutham-epfl.github.io/website
   bitbucket        :
   codepen          :
   dribbble         :
