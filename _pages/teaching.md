@@ -10,9 +10,12 @@ author_profile: true
 * Optimization Methods (Graduate), Fall 2021
 * Financial Big Data (Graduate), Fall 2018-2020
 * Financial Applications of Blockchain (Graduate), Fall 2018-2020
+
 ## Academic Supervisor for Executive MBA (EPFL)
+
 ## Visiting Lecturer for MBA 
 * Computational Finance (Quantitative Finance stream), Fall 2021
+
 ## Teaching Assistant (University of Bologna)
 * Mathematics (Undergraduate), Fall 2016
 * Corporate Finance (Undergraduate), Fall 2016
