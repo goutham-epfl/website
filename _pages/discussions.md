@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: <span style="color:red"> Job Market Paper </span>
+title: <span style="color:red"> Discussions </span>
 permalink: /discussions/
 author_profile: true
 ---
