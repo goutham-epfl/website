@@ -18,6 +18,6 @@ _<font size=2> <span style="font-family:cardinals; font-size:2;"> Presentations(
 #### <center> <span style="font-family:papyrus; font-size:4;"> Crisis in six scenes </span> </center>
 
 
-<video width="1000" height="500" controls="controls">
+<video width="500" height="350" controls="controls">
   <source src="https://goutham-epfl.github.io/website/images/images.mp4" type="video/mp4">
 </video>
