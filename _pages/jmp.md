@@ -27,3 +27,7 @@ _<font size=2> <span style="font-family:cardinals; font-size:2;"> Presentations(
   <img src="https://goutham-epfl.github.io/website/images/pic5.png" width="300" />
   <img src="https://goutham-epfl.github.io/website/images/pic6.png" width="300" />
 </p>
+
+<video width="480" height="320" controls="controls">
+  <source src="https://goutham-epfl.github.io/website/images/images.mp4" type="video/mp4">
+</video>
