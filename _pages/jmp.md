@@ -15,7 +15,7 @@ author_profile: true
 _<font size=2> <span style="font-family:cardinals; font-size:2;"> Presentations(*in-person): AFA poster (2022), Princeton University* (2022), CESifo conference on Macro, Money, and International Finance (2021), RiskLab/BoF/ESRB Conference (2021), Paris December Meetings (2021), DGF German Finance Association Innsbruck* (2021), Econometric Society Meetings (2021; North America, Europe, Asia, Australia), AFFI PhD session (2021), AEFIN Ph.D. Mentoring Day (2021), Day-Ahead Workshop on Financial Regulation poster Zurich* (2021), Workshop on Macroeconomic Research Carcow (2021), Money Macro and Finance Society Conference (2021), Miami Winter Research Conference on Machine Learning and Business (2021), New Zeland Finance Conference (2021), SFI Gerzensee Research Days (2021), UNIL/EPFL Brown Bag (2020) </span> .</font>_
 
 
-#### <center> <span style="font-family:papyrus; font-size:4;"> Crisis in six scenes </span> </center>
+####  <span style="font-family:papyrus; font-size:4;"> Crisis in six scenes </span> 
 
 
 <video width="500" height="350" controls="controls">
