@@ -17,17 +17,7 @@ _<font size=2> <span style="font-family:cardinals; font-size:2;"> Presentations(
 
 #### <center> <span style="font-family:papyrus; font-size:4;"> Crisis in six scenes </span> </center>
 
-<p float="left">
-  <img src="https://goutham-epfl.github.io/website/images/pic1.png" width="300" caption="xxx"/>
-  <img src="https://goutham-epfl.github.io/website/images/pic2.png" width="300" />
-  <img src="https://goutham-epfl.github.io/website/images/pic3.png" width="300" />
-</p>
-<p float="left">
-  <img src="https://goutham-epfl.github.io/website/images/pic4.png" width="300" caption="xxx"/>
-  <img src="https://goutham-epfl.github.io/website/images/pic5.png" width="300" />
-  <img src="https://goutham-epfl.github.io/website/images/pic6.png" width="300" />
-</p>
 
-<video width="480" height="320" controls="controls">
+<video width="1000" height="500" controls="controls">
   <source src="https://goutham-epfl.github.io/website/images/images.mp4" type="video/mp4">
 </video>
