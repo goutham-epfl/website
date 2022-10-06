@@ -12,7 +12,7 @@ I am a PhD Candidate at <span style="color:blue">École Polytechnique Fédérale
 
 > I will be on the academic job market during the 2022-2023 academic year. You can find my Curriculum Vitae [here](https://goutham-epfl.github.io/website/files/CV.pdf).
 
-Prior to my graduate studies, I worked as a Quantitative Researcher for four years. I have degrees in *Computer Science Engineering*, *Economics*, and have passed all three levels of the *CFA program*. When I'm not doing research, I like to play basketball, weight train, and solve math and algorithmic puzzles.
+I worked as a Quantitative Researcher for four years prior to my graduate studies. My hobbies are playing basketball, weight training, travelling, and solving math and algorithmic puzzles.
 
 ### Research Interest
 * Macro-Finance
