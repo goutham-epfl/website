@@ -10,3 +10,4 @@ author_profile: true
 * **Optimal Timing of Policy Interventions in Banking Crises** by Philipp Koenig, Paul Mayer and David Pothier, at *27th Annual Meeting of the German Finance Association*.
 * **Safe Asset Carry Trade** by Benedikt Ballensiefen and Angelo Ranaldo, at *SFI Research Days 2021*.
 * **Firm Quality Dynamics and the Slippery Slope of Credit Intervention** by Wenhao Li and Ye Li, Paris December Meetings 2021. 
+* **When does the fed care about stock prices?** by Alexander Kurov, Eric Olson, and Gulnara Zaynutdinova, New Zeland Finance Meetings 2021.
