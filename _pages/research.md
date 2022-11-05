@@ -20,8 +20,10 @@ _<font size=2> <span style="font-family:cardinals; font-size:2;"> Presentations:
 <ins>__Abstract__</ins> : This paper builds a macro-finance model with endogenous bankruptcy of intermediaries to analyze the dynamics of financial crises. The model features leveraged intermediaries who face stochastic costs to intermediate assets, and possess franchise value
 that they lose upon bankruptcy, trapping the economy in states of economic distress with slow recovery. The model quantitatively predicts a large risk premium, low GDP growth, and high bank failures during financial crisis. Analyzing a panel of Bank Holding Companies, I offer empirical evidence for the franchise value to be associated with a higher probability of failure. The results indicate that the changing scope of banking industry with declining franchise value compared to the pre-crisis period is worrisome, despite strong capital ratios.
 
-3\. **Capital Structure Dynamics with Active Debt and Equity Management** with Julien Hugonnier and Erwan Morellec (Work in Progress)
+<span style="color:red"> Work in Progress </span>
 
-4\. **Interest Rate Uncertainty and Public Debt Dynamics** with Andrea Modena (Work in Progress)
+3\. **Capital Structure Dynamics with Active Debt and Equity Management** with Julien Hugonnier and Erwan Morellec 
+
+4\. **Interest Rate Uncertainty and Public Debt Dynamics** with Andrea Modena 
 
 5\. **Supply Chain Finance and Firm Capital Structure** with Claudio Tebaldi and Laura Bottazzi (Draft available upon request)
