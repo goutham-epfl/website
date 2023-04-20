@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at <span style="color:blue">École Polytechnique Fédérale de Lausanne </span>  and the <span style="color:blue"> Swiss Finance Institute </span>. I am currently visiting the Bendheim Center for Finance, <span style="color:blue"> Princeton University </span>as a research collaborator. My research interests are in macro-finance, machine Learning, and asset pricing. I received the **2021 CESifo Distinguished Affiliate** award, and was a runner-up for the **ESRB Ieke van den Burg Prize 2021**.
+I am a PhD candidate at <span style="color:blue">École Polytechnique Fédérale de Lausanne </span>  and the <span style="color:blue"> Swiss Finance Institute </span>. My research interests are in macro-finance, machine Learning, and asset pricing. I received the **2021 CESifo Distinguished Affiliate** award, was a runner-up for the **ESRB Ieke van den Burg Prize 2021**, and received the PhD grant at **20th Macro-Finance Society Workshop**.
 
 > I will join the Rotman School of Management, University of Toronto as an assistant professor of finance in July 2023. I will be a visiting assistant professor at the Bendheim Center for Finance at Princeton University in the Fall of 2023. 
 
