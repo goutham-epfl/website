@@ -5,11 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Princeton University (NJ, USA)
+## Lecturer (Princeton University, USA)
 * Mini-course on Deep-Learning and Macro-Finance, February 2023.
     Course materials are available [here](https://bcf.princeton.edu/events/mini-lecture-deep-learning-and-macrofinance/).
 
 ## Teaching Assistant (EPFL, Switzerland)
+* Financial Econometrics (Graduate), Spring 2023
 * Game Theory and Strategic Decisions (Undergraduate), Fall 2021
 * Optimization Methods (Graduate), Fall 2021
 * Financial Big Data (Graduate), Fall 2018-2020
