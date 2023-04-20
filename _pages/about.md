@@ -12,6 +12,8 @@ I am a PhD candidate at <span style="color:blue">École Polytechnique Fédérale
 
 > I will join the Rotman School of Management, University of Toronto as an assistant professor of finance in July 2023. I will be a visiting assistant professor at the Bendheim Center for Finance at Princeton University in the Fall of 2023. 
 
+> **New**: The course materials for my mini-course on Deep-Learning and Macro-Finance taught at Princeton University is available [here](https://bcf.princeton.edu/events/mini-lecture-deep-learning-and-macrofinance/).
+
 I worked as a quantitative researcher for four years prior to my graduate studies. My hobbies are playing basketball, weight training, traveling, and solving math and algorithmic puzzles.
 
 ### Research Interest
