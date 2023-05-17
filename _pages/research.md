@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-1\. [**Heterogeneous Beliefs, Risk Amplification, and Asset Returns**](http://goutham-epfl.github.io/website/files/paper4) with Seung Joo Lee and Theofanis Papamichalis.
+1\. [**Heterogeneous Beliefs, Risk Amplification, and Asset Returns**](http://goutham-epfl.github.io/website/files/paper4.pdf) with Seung Joo Lee and Theofanis Papamichalis.
 
 <ins>__Abstract__</ins> : How do heterogeneous beliefs about growth prospects affect the macroeconomy's \textit{endogenous} volatility and transition dynamics? We first set out a tractable framework that incorporates heterogeneous beliefs about technological growth, and assess their impact on the amplification of risks during crises. When productive experts become more optimistic about their growth prospects, trade is facilitated, raising investment, asset prices, and leverage ratio considerably. However, when the economy transitions into a crisis, belief heterogeneity exacerbates aggregate risk, resulting in excess volatility and higher risk-premium. The economy ends up spending a longer time in crises on average. Finally, our model generates the excess conditional asset return momentum which is empirically observed during crises and raises the pricing power in the cross-section of asset returns significantly, beyond the conventional factors proposed by the literature.
 
