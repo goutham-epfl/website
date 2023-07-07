@@ -4,6 +4,9 @@ title: <span style="color:red"> Teaching </span>
 permalink: /teaching/
 author_profile: true
 ---
+## Instructor 
+* Online summer school: Macro, money and finance.
+Course materials are available [here](https://initiative.princeton.edu/macro-finance-online-summer-school/).
 
 ## Lecturer (Princeton University, USA)
 * Mini-course on Deep-Learning and Macro-Finance, February 2023.
