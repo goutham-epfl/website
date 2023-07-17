@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD candidate at <span style="color:blue">École Polytechnique Fédérale de Lausanne </span>  and the <span style="color:blue"> Swiss Finance Institute </span>. My research interests are in macro-finance, machine Learning, and asset pricing. I received the **2021 CESifo Distinguished Affiliate** award, was a runner-up for the **ESRB Ieke van den Burg Prize 2021**, and received the PhD grant at **20th Macro-Finance Society Workshop**.
 
-> I will join the Rotman School of Management, University of Toronto as an assistant professor of finance in July 2023. I will be a visiting assistant professor at the Bendheim Center for Finance at Princeton University in the Fall of 2023. 
+> I will be a visiting assistant professor at the Bendheim Center for Finance at Princeton University in the Fall of 2023. 
 
 > **New**: The course materials for my mini-course on Deep-Learning and Macro-Finance taught at Princeton University is available [here](https://bcf.princeton.edu/events/mini-lecture-deep-learning-and-macrofinance/).
 
